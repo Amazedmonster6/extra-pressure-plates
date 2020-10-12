@@ -2,33 +2,34 @@
 {
   "schemaVersion": 1,
   "id": "extra-pressure-plates",
-  "version": "${version}",
+  "version": "1.1.3",
 
   "name": "Extra Pressure Plates",
   "description": "Adds more pressure plates to the game!",
   "authors": [
-    "Draylar"
+    "Draylar",
+    "StevePlayzz"
   ],
   "contact": {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/extra-pressure-plates",
-    "sources": "https://github.com/Draylar/extra-pressure-plates"
+    "sources": "https://github.com/StevePlayzz/extra-pressure-plates"
   },
 
-  "license": "GPLv3",
+  "license": "mit",
   "icon": "assets/extra-pressure-plates/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.github.draylar.extrapp.ExtraPressurePlates"
+      "com.github.steveplayzz.extrapp.ExtraPressurePlates"
     ],
     "client": [
-      "com.github.draylar.extrapp.ExtraPressurePlatesClient"
+      "com.github.steveplayzz.extrapp.ExtraPressurePlatesClient"
     ]
   },
 
   "requires": {
-    "fabricloader": ">=0.4.0",
+    "fabricloader": ">=0.7.4",
     "fabric": "*"
   },
   "suggests": {
