@@ -26,7 +26,7 @@ public class ModBlocks {
             .buildAndRegister("glass");
 
     public static final Block SLIME = new BasePressurePlateBlock.Builder()
-            .withSettings(FabricBlockSettings.of(Material.CLAY).sounds(BlockSoundGroup.SLIME).hardness(.3f).build())
+            .withSettings(FabricBlockSettings.of(Material.ORGANIC_PRODUCT).sounds(BlockSoundGroup.SLIME).hardness(.3f).build())
             .withRenderType(PressurePlateRenderType.SLIME)
             .buildAndRegister("slime");
 
