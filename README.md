@@ -2,7 +2,7 @@
 
 Adds more pressure plates to the game! 
 
-Built for Fabric; latest version is on 19w46b.
+Built for Fabric; latest version is on 1.16.3.
 
 ![plates](https://i.imgur.com/DTkdCh4.png)
 
