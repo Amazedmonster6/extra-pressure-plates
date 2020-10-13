@@ -14,4 +14,5 @@ Plans:
 
 add more pressure plates like stone bricks, mossy bricks, cobble, diamond, netherite, mod support plates ,etc :)
 
+website:
 https://www.curseforge.com/minecraft/mc-mods/extra-pressure-plates
